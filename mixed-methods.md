@@ -5,7 +5,7 @@
 
 -----------
 
-Feedback on the following proposed standard is requested, before Feb 21, 2021.
+Feedback on the following proposed standard supplement is requested, before Feb 21, 2021.
 
 <br clear=all>
 
@@ -206,45 +206,10 @@ mixed methods." Research in the Schools 13, no. 1 (2006): 12-28.
 
 12. https://en.wikipedia.org/wiki/Multimethodology 
 
+## Examplars (in progress) 
 
-## Example papers (in progress) 
-
-Chattopadhyay, Souti, Nicholas Nelson, Audrey Au, Natalia Morales, Christopher Sanchez, 
-Rahul Pandita, and Anita Sarma. "A tale from the trenches: cognitive biases and software 
-development." In Proceedings of the ACM/IEEE 42nd International Conference on Software 
-Engineering, pp. 654-665. 2020.
-_(Observations + interviews)_
-
-Qiu, Huilian Sophie, Yucen Lily Li, Susmita Padala, Anita Sarma, and Bogdan 
-Vasilescu. "The signals that potential contributors look for when choosing 
-open-source projects." Proceedings of the ACM on Human-Computer Interaction 3, 
-no. CSCW (2019): 1-29.
-_(interviews + mining)_
-
-
-Siegmund, Janet, Norman Peitek, Sven Apel, and Norbert Siegmund. 
-"Mastering Variation in Human Studies: The Role of Aggregation." 
-ACM Transactions on Software Engineering and Methodology (TOSEM) 30, 
-no. 1 (2020): 1-40.
-_(A literature survey, an in-depth statistical re-analysis, 
-    and train several classifiers on data of different human studies to 
-    demonstrate how aggregation affects results.)_
-
-Siegmund, Norbert, Nicolai Ruckel, and Janet Siegmund. "Dimensions of software 
-configuration: on the configuration context in modern software development." 
-In Proceedings of the 28th ACM Joint Meeting on European Software Engineering 
-Conference and Symposium on the Foundations of Software Engineering, pp. 338-349. 2020.
-https://sws.informatik.uni-leipzig.de/wp-content/uploads/2020/05/Configuration.pdf
-_(interviews, two related papers, and an application on 
-SE subfields for building a context of research on software configuration.)_
-
-
-Vidoni, Melina, "Evaluating Unit Testing Practices in R Packages", 
-To appear ICSE 2021.
-https://melvidoni.rbind.io/publication/2021-rttd-icse/
-_(Combined an MSR (mining software repositories) with a developers' survey.)_
-
+In the process of selecting papers from this [list](mixed-examples.md).  
 
 ## Authors
 
-Original authors: Margaret-Anne Storey, University of Victoria 
+Original author: Margaret-Anne Storey, University of Victoria 
