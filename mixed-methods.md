@@ -1,6 +1,6 @@
 
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
-[comment](https://github.com/margaretstorey/mixed-methods/issues) ::
+[comment](https://github.com/margaretstorey/mixed-methods/issues) 
 
 -----------
 
