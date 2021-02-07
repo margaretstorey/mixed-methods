@@ -1,8 +1,8 @@
 # Mixed Methods Supplement for the SIGSOFT Standards
 
-I've offered to help out the SIGSOFT standards project by writing a first draft of a standard
+I've offered to contribute to the [SIGSOFT standards project](https://github.com/acmsigsoft/EmpiricalStandards) by writing a first draft of a standard
 for the supplement on mixed methods or multi-methodology research.  
-I would love to hear your opinions and comments and your suggestions for changes! 
+I would love to hear your opinions and your suggestions for changes! 
 If you have a comment, please use the issues feature to start a discussion. 
 
 If you would like to suggest a change or suggest an example paper (or update the existing papers!), please consider forking this repo and open a pull request.
