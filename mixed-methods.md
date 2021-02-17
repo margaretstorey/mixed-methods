@@ -11,81 +11,59 @@ Feedback on the following proposed standard supplement is kindly requested, befo
 
 #  Multi-Methodology and Mixed Methods Research (Supplement)
 
-<em>Multi-Methodology includes the use of more than one 
-research methodology or method in a study to corroborate, 
-complement and expand research findings. 
-Mixed method research may 
-combine and integrate inductive research and 
-deductive research and may mix methods that rely on 
+<em>Studies that use two or more approaches to data collection or analysis to corroborate, complement and expand research findings (multi-methodology) or combine and integrate inductive research with deductive research (mixed methods), often but not necessarily relying on 
 qualitative and/or quantitative data.</em>
 
 
 ## Application
 
-This standard applies to software engineering studies that use multi-methodology, 
-multi-method or mixed method research designs. This guideline should be 
-complemented by guidelines elsewhere in this guide for the specific methods 
-used when available.  Multi-methodology, multiple method and mixed method 
-research may be used in case study research, design studies, experiments, 
-theoretical studies and evaluations to corroborate, complement, and expand 
-research findings.
-Mixed method research may
-combine and integrate inductive research and
-deductive research and may mix methods that rely on
-qualitative and/or quantitative data.
+This standard applies to software engineering studies that use two ir more data collection or analysis methods. It enumerates criteria related to 
+the mixing of methodologies, not the methodologies themselves. For the latter, refer to method-specific standards. For example, a multi-methodology study combining a case study with an experiment should comply with **The Case Study Standard** and **The Experiment Standard** as well as this standard. 
 
 ## Specific Attributes
 
 #### Essential:
 
-- **justifies** the use of multiple methodologies and/or methods in the research 
-  study and provides a **purpose statement** that conveys the overarching multi or 
+- [ ] **justifies** using multiple methodologies and/or methods 
+- [ ] provides a **purpose statement** that conveys the overarching multi or 
   mixed method design intent (why)
-- describes the **multi-methodology**, **multi-method** or **mixed method** design (what) 
-- describes **which phases** of the research study the different methods or 
+- [ ] describes the **multi-methodology**, **multi-method** or **mixed method** design (what) 
+- [ ] describes **which phases** of the research study the different methods or 
   methodologies are used in (when)
-- describes how the design aligns with the research question or objective
-- **meets the guidelines** for the main methods reported in the design (including 
-  sampling procedures, data collection, data analysis procedures, validation 
-  and limitations)
-- describes and justifies **sample reuse** (or no reuse, or partial reuse) across 
-  methods
-- provides a **narrative** of the final study that aligns with the type of 
+- [ ] describes how the design aligns with the research question or objective
+- [ ] provides a **narrative** of the final study that aligns with the type of 
   multi-methodology or mixed method design used
-- **integrates the findings** from all methods to address the research 
+- [ ] **integrates the findings** from all methods to address the research 
   question/objective
-- **distinguishes the additional value** from using a multi-methodology or mixed 
-  method design (in terms of corroboration, complementarity, and expansion 
-  (breadth and depth))
-- discusses **discrepancies and incongruent findings** from the use of multiple 
-  methods
-- considers the **limitations** associated with the integration of findings 
+- [ ] acknowledges the **limitations** associated with integrating findings 
   (e.g., the qualitative and quantitative data (or results) in a triangulation design)
  
 #### Desirable:
 
-- provides a basic **definition** of multi-methodology and the mixed method 
-  design used (if a mixed method design is used)
-- provides a **visual model** (diagram) that illustrates the research design
-- provides a **title** that foreshadows the use of multiple methods or mixed 
-  method design in the study
-- provides an **abstract and introduction** that describes the methods used 
-  and the intent of integration
-- provides a **literature review** that describes related quantitative, 
-  qualitative, and mixed methods studies that relate to the research (desirable 
-  in the case of a mixed method design)
+- [ ] **defines** the multi-methodology or mixed method design used
+- [ ] describes and justifies **sample reuse** (or no reuse, or partial reuse) across 
+  methods
+- [ ] illustrated the research design using a **visual model** (diagram)
+- [ ] indicates the use of multiple methods or mixed method design in the **title** 
+- [ ] (for mixed-methods) includes, in the **literature review**, a mixture of quantitative, 
+  qualitative, and mixed methods related work
+- [ ] **distinguishes the additional value** from using a multi-methodology or mixed 
+  method design in terms of corroboration, complementarity, and expansion 
+  (breadth and depth)
+- [ ] discusses **discrepancies and incongruent findings** from the use of multiple 
+  methods
+- [ ] describes the main **philosophical, epistemological, and/or theoretical foundations** 
+  that the authors use and relate those to the planned use of multi or mixed methods in the study
+- [ ] describes the **challenges** faced in the design and how those were or could be 
+  mitigated
+- [ ] describes how the methods and their findings relate to one or more 
+      **theories or theoretical frameworks**
+- [ ] describes **ethical issues** that may have been presented through the blend of 
+  multi- or mixed methods
 
 #### Extraordinary: 
 
-- describes the main **philosophical, epistemological, and/or theoretical 
-  foundations** that the authors use and relate those to the planned use of 
-  multi or mixed methods in the study 
-- describes how the methods and their findings relate to one or more **theories 
-  or theoretical frameworks**
-- describes the **challenges** faced in the design and how those were or could be 
-  mitigated
-- describes **ethical issues** that may have been presented through the blend of 
-  multi- or mixed methods
+- [ ] contributes to the methodological discourse surrounding multi-methodology or mixed-methods
 
 
 ## General Quality Criteria
@@ -104,7 +82,7 @@ qualitative and quantitative data and subsequent interpretations”
   introduction/methodology and makes an unexpected entrance in the discussion or 
   limitations sections of the paper
 - **Smoke and mirrors:** Overselling a study as a multi-methodology or mixed method design 
-  when one study at best offers a token or anecdotal contribution to the research motivation 
+  when one approach at best offers a token or anecdotal contribution to the research motivation 
   or findings
 - **Selling your soul:** Employing an additional method to appeal to a methodological purist 
   during the review process that does not contribute substantively to the research findings
@@ -115,14 +93,12 @@ qualitative and quantitative data and subsequent interpretations”
   question/objective
 - **Cargo cult research:** Using methods where the research team lacks expertise in those methods, 
   but hopes they work
-- **Design by committee:** Failure to agree on a crisp research question/objective that may have 
-  been induced by different epistemological perspectives or use of heterogeneous methods
-- **Golden hammer:** Researchers with a stronger quantitative background may be inclined to rely 
-  on counts from the qualitative study losing richness from their qualitative data
-- **Sample contamination:** reusing a participant sample from one method in another method in a 
-  mixed method sequential design without accounting for potential contamination from an 
-  earlier method
-- **Ignoring the writing on the wall:** In a mixed method sequential design, failure to use 
+- **Design by committee:** Failure to agree on a crisp research question/objective (may be 
+   induced by different epistemological perspectives or use of heterogeneous methods)
+- **Golden hammer:** relying on superficial, typically quantitative analysis of rich qualitative data 
+- **Sample contamination:** a mixed method sequential design where the same participants are used in multiple,
+     sequential methods without accounting for potential contamination from earlier method(s) to later ones.
+- **Ignoring the writing on the wall:** In a mixed method sequential design, failing to use 
   findings from an earlier study when forming an instrument for a study in a later phase of 
   the research
 
@@ -131,41 +107,40 @@ qualitative and quantitative data and subsequent interpretations”
 - Conference page limits may make it particularly challenging to share sufficient details 
   on all methods used. These details may be available in other publications or supplementary 
   materials.  
-- The other guidelines should be consulted in terms of acceptable deviations for the 
-  various methods used.
+- Describing the research in terms of cycles or ongoing parallel processes instead of phases.
 
 
 ## Invalid Criticisms
 
 - In the case of non-equal research designs, rejecting the paper on the basis of 
-  limitations of a minor method (e.g., few participants) is not a fatal flaw. 
-- See the guidelines for the other methods used.
-
+  limitations of a minor method (e.g., few participants). 
+- The mixed- or multi-method approach isn't necessary (when it *is* beneficial)
+- The method(ologie)s do not contribute equally ("non-equal" research designs are ok)
+- The mixed- or multi-method approach introduces additional limitations
+- The method(ologie)s have different philosophical foundations or are otherwise incompatible
+- In an un-equal design, the wrong method is dominent
+- The method(ologie)s have inconsistent findings
 
 ## Notes
 
-- The distinction between quantitative and qualitative research should not be conflated with
-  qualitative and quantitative data alone.  Quantitative research is used by many authors to
-  refer to deductive research (and
-  more often relies on quantitative data) while qualitative research is inductive research
-  (which more often relies on qualitative research).
 - Multi-methodology research is sometimes referred to as multi-method, blended research, 
-  and integrative research (see P. 118 Johnson 2008).  Mixed method research is 
+  or integrative research (see P. 118 Johnson 2008).  Mixed method research is 
   sometimes seen as a special case of multi-methodology research that blends 
   deductive and inductive research, or mixes methods that rely on quantitative 
   and qualitative data. 
-- The terms “methodology” and “method” are frequently used interchangeably. In mixed method 
-  research, the term method often refers to methodology, not just a data collection method.
+- The term "method" may refer to a way of collecting data or a broader process of doing research. 
+  In mixed methods research, "method" means the broader process of doing research. 
+- The term "methodology" may refer to an approach to doing research or the study of how research is done.
+   In "multi-methodology," methodology means a process of doing research  
 - For multi-method research, it is important to distinguish between using different methods 
-  of collecting data (e.g., as part of an inductive case study) to using different research 
+  of collecting data (e.g., as part of an inductive case study) and using different research 
   strategies (e.g., complementing an inductive case study with a deductive experiment in a 
   later stage of the research).
 - Some experts on mixed methods use specific terms to refer to core mixed method designs 
-  (e.g, Convergent mixed methods, Explanatory sequential mixed methods, Exploratory sequential 
-  mixed methods are defined by Creswell & Creswell, 2007 and Quantitatively driven approaches/designs, 
+  (e.g., Convergent mixed methods, Explanatory sequential mixed methods, Exploratory sequential 
+  mixed methods are defined by Creswell & Creswell (2007) and Quantitatively driven approaches/designs, 
   Qualitatively driven approaches/designs, Interactive or equal status designs are used by 
-  Johnson, Onwuegbuzie, & Turner, 2007). 
-  
+  Johnson, Onwuegbuzie, & Turner, 2007).   
 
 ## Suggested Readings (in progress) 
 
