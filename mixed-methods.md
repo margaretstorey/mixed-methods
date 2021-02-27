@@ -4,11 +4,6 @@
 
 -----------
 
-This supplement is a work on progress! 
-Feedback on the following proposed standard supplement is kindly requested, before Feb 21, 2021 
-(see the [README](README.md))
-
-
 #  Multi-Methodology and Mixed Methods Research (Supplement)
 
 <em>Studies that use two or more approaches to data collection or analysis to corroborate, complement and expand research findings (multi-methodology) or combine and integrate inductive research with deductive research (mixed methods), often but not necessarily relying on 
@@ -24,7 +19,7 @@ the mixing of methodologies, not the methodologies themselves. For the latter, r
 
 #### Essential:
 
-- [ ] **justifies** using multiple methodologies and/or methods 
+- [ ] **justifies** using multiple methodologies and/or methods
 - [ ] provides a **purpose statement** that conveys the overarching multi or 
   mixed method design intent (why)
 - [ ] describes the **multi-methodology**, **multi-method** or **mixed method** design (what) 
@@ -35,8 +30,7 @@ the mixing of methodologies, not the methodologies themselves. For the latter, r
   multi-methodology or mixed method design used
 - [ ] **integrates the findings** from all methods to address the research 
   question/objective
-- [ ] acknowledges the **limitations** associated with integrating findings 
-  (e.g., the qualitative and quantitative data (or results) in a triangulation design)
+- [ ] acknowledges the **limitations** associated with integrating findings (e.g., samples that are drawn from different populations may introduce limitations when the findings are integrated, or biases may be introduced by the sequential or parallel nature of a mixed design).
  
 #### Desirable:
 
