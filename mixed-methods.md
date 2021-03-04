@@ -26,8 +26,6 @@ the mixing of methodologies, not the methodologies themselves. For the latter, r
 - [ ] describes **which phases** of the research study the different methods or 
   methodologies are used in (when)
 - [ ] describes how the design aligns with the research question or objective
-- [ ] provides a **narrative** of the final study that aligns with the type of 
-  multi-methodology or mixed method design used
 - [ ] **integrates the findings** from all methods to address the research 
   question/objective
 - [ ] acknowledges the **limitations** associated with integrating findings (e.g., samples that are drawn from different populations may introduce limitations when the findings are integrated, or biases may be introduced by the sequential or parallel nature of a mixed design).
@@ -106,13 +104,10 @@ qualitative and quantitative data and subsequent interpretations”
 
 ## Invalid Criticisms
 
-- In the case of non-equal research designs, rejecting the paper on the basis of 
-  limitations of a minor method (e.g., few participants). 
+- The method(ologie)s do not contribute equally (a non-equal design) or the minor method is limited (e.g. few participants).
 - The mixed- or multi-method approach isn't necessary (when it *is* beneficial)
-- The method(ologie)s do not contribute equally ("non-equal" research designs are ok)
-- The mixed- or multi-method approach introduces additional limitations
 - The method(ologie)s have different philosophical foundations or are otherwise incompatible
-- In an un-equal design, the wrong method is dominent
+- In an unequal design, the wrong method is dominant (this is a study design choice not a flaw )
 - The method(ologie)s have inconsistent findings
 
 ## Notes
