@@ -176,7 +176,7 @@ mixed methods." Research in the Schools 13, no. 1 (2006): 12-28.
 
 12. https://en.wikipedia.org/wiki/Multimethodology 
 
-## Examplars (in progress) 
+## Exemplars (in progress) 
 
 I am compiling this [list](mixed-examples.md).  
 
